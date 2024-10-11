@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">👋 Hello! I hold a degree in Systems Analysis and Development and am currently enhancing my expertise in Java. I am passionate about technology and committed to continuous learning and collaboration. I look forward to connecting with like-minded professionals.</p>
+<p align="left">👋 👋 Olá, mundo! Sou Hewerton, desenvolvedor Java. Seja bem-vindo ao meu GitHub! Aqui, você encontrará meus projetos e contribuições enquanto exploro o fascinante mundo da tecnologia.</p>
 
 ###
 
