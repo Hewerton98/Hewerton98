@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">👋 👋 Olá, mundo! Sou Hewerton, desenvolvedor Java. Seja bem-vindo ao meu GitHub! Aqui, você encontrará meus projetos e contribuições enquanto exploro o fascinante mundo da tecnologia.</p>
+<p align="left">👋 Hello, world! I’m Hewerton, a Java Developer. Welcome to my GitHub! Here, you'll find my projects and contributions as I explore the exciting world of technology. Let’s connect and collaborate!</p>
 
 ###
 
